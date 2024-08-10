@@ -4,7 +4,7 @@ A web-based application where user can buy new Stationery Items and sell their o
 – Users can register, log in, sell Stationery Items, purchase new ones, and update their profiles securely.
 – Admin privileges include adding new Stationery Items and managing orders efficiently.
 – Technology Used: Java Servlets, JSP (including HTML), MySQL, JDBC, CSS, and Bootstrap.
-Our beautifully crafted front end is designed with you in mind. The seamless integration of modern CSS styling brings your learning journey to life, creating an intuitive and visually appealing interface. 
+## Our beautifully crafted Home Page where front end is designed with you in mind
 ![1](https://github.com/user-attachments/assets/b6a98456-c169-401a-8939-7962d5391f8e)
 ## Let's register the user into the application
  ![1 1](https://github.com/user-attachments/assets/b92e2913-5f11-4d4f-a993-9caf788291d6)
